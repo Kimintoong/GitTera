@@ -1,0 +1,11 @@
+标志,ID,人物,内容,跳转,积分表
+对话,1,亚枚特（Amet）,hello world,2,
+对话,2,亚麻路（Amalur）,abd,3,
+选项,3,,2036the heat death of the universe,6,好感度@1
+选项,4,,2034the heat death of the universe,7,好感度@2
+选项,5,,2031the heat death of the universe,8,体力值@-1
+对话,6,亚枚特（Amet）,2036,9,
+对话,7,亚枚特（Amet）,2034,9,
+对话,8,亚枚特（Amet）,2031,9,
+END,9,,,,
+注：其中XXX表示某项数值，这里开放尽量多的接口满足功能，比如增加攻击力，增加好感度等等,,,,,

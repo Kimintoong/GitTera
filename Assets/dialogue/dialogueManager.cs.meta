@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 46d2413f48a5acf4ebe872ceea135405
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialogueDataFile: {fileID: 4900000, guid: b3dff86dfdb28af4688a5262188247ef, type: 3}
+  - image: {instanceID: 0}
+  - nameText: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - next: {instanceID: 0}
+  - option: {instanceID: 0}
+  - buttonGroup: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
